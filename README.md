@@ -1,6 +1,6 @@
 # Tracing the Footsteps of Technical Debt in Microservice Architectures: A Preliminary Case Study
 This repository is a companion page for the following publication:
-> Verdecchia, R., Maggi, K., Scommegna, L., Enrico, V. 2023. Tracing the Footsteps of Technical Debt in Microservice Architectures: A Preliminary Case Study. Submitted for revision to the 1st International Workshop on Quality in Software Architecture (QUALIFIER)
+> Verdecchia, R., Maggi, K., Scommegna, L., Vicario, E. 2023. Tracing the Footsteps of Technical Debt in Microservice Architectures: A Preliminary Case Study. Submitted for revision to the 1st International Workshop on Quality in Software Architecture (QUALIFIER)
 
 It contains all the material required for replicating the study, including: repository mining script, mining raw data and data analysis script.
 
