@@ -74,17 +74,20 @@ This is the root directory of the repository. The directory is structured as fol
     QUALIFIER-2023-TD-microservices-rep-pkg
      .
      |
-     |--- src/                         Source code used in the paper
-     |      |
-     |      |--- mining/               Scripts for the repository mining phase
-     |      |
-     |      |--- analysis/             Scripts for the data analysis phase
      |
-     |--- data/                        Data used in the paper 
-            |
-            |--- raw/                  Results from the repository mining phase
-            |
-            |--- final/                Results from the data analysis phase
+     |--- src/                                   Source code used in the paper
+     |      |
+     |      |--- mining/                         Scripts for the repository mining phase
+     |      |
+     |      |--- analysis/                       Scripts for the data analysis phase
+     |
+     |--- data/                                  Data used in the paper 
+     |      |
+     |      |--- raw/                            Results from the repository mining phase
+     |      |
+     |      |--- final/                          Results from the data analysis phase
+     |
+     |--- Interview_supporting_slide_deck.pdf    Slide deck utilized for the qualitative interview
 ## License
 The source code is licensed under the MIT license, which you can find in the [LICENSE file](LICENSE).
 
